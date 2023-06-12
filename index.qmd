@@ -1,0 +1,7 @@
+---
+title: "Georgia's website!"
+---
+
+This is a website made using Quarto.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
