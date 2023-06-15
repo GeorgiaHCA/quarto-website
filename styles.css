@@ -1,0 +1,40 @@
+/* css styles */
+body {
+  background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/05425d96-eeb2-4bd4-b7df-6a13e5715013/d46ji69-25b3445b-1b52-437b-ae8d-b8e7024d9f80.jpg/v1/fill/w_900,h_512,q_75,strp/hyrule_by_papayoufr-d46ji69.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8wNTQyNWQ5Ni1lZWIyLTRiZDQtYjdkZi02YTEzZTU3MTUwMTMvZDQ2amk2OS0yNWIzNDQ1Yi0xYjUyLTQzN2ItYWU4ZC1iOGU3MDI0ZDlmODAuanBnIiwid2lkdGgiOiI8PTkwMCIsImhlaWdodCI6Ijw9NTEyIn1dXX0.EEXrS2Yv-ad7vjsAx7RkqxldsKOBuIQ4KrHQ0eh880Y);
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+  
+  h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(145, 236, 162);
+    text-align: center; 
+    font-size: 45px;
+    background-color: rgba(13, 150, 40, 0.8);
+    border: 8px;
+    border-style: groove;
+    border-radius: 18px;
+    background-attachment: scroll;
+  }
+
+  h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 35px;
+    background-color: rgba(15,0,35,0.8);
+    color: orchid;
+    border-left: 3px solid orchid;
+    div {
+      width: 300px;
+      border: 15px solid green;
+      padding: 50px;
+      margin: 20px;
+    }
+  }
+  
+  p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgba(38, 12, 50, 0.4);
+    color: rgb(219, 219, 226);
+    margin: 25px 50px 75px 100px
+  }
