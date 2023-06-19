@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+This is test website that was created as a learning project to build an understanding of Quarto, CSS and html. Images are from Pexel. 

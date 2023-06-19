@@ -2,7 +2,7 @@
 title: "Learn"
 ---
 
-<h2>You've probably heard of the 5 main senses: touch, vision, hearing, smell and taste, but there is a whole lot more complexity to the way we sense, perceive, and respond to the world around us and understand ourselves.</h2> 
+<h2>You've probably heard of the 5 main senses: touch, vision, hearing, smell and taste, but there is a whole lot more complexity to the way we sense, perceive, and respond to ourselves and the world around us.</h2> 
 
 <p>All these 5 senses are known as "exteroceptive", because they help us to navigate the external world, but there are also "interoceptive" senses through which we can have knowledge of our own bodies. Exactly how many senses we have depends on who you ask - and scientists haven't reached a consensus. The answer, though, is a lot more than five, and ranges from aronud 9 to up to 21! We also have a variety of sensations which are made by combining the information we receive from different sources. The picture is even more complex because they are often intertwined. For instance, flavour is experienced by combining information from our olfactory (smelling) sensory system and our gustatory (tasting) sensory system.
 
@@ -10,7 +10,7 @@ In simple terms, we can think of sensory perception as involving four main eleme
 
 The table below gives some examples of different human senses and how they work.</p>
 
- <table>
+<table>
   <tr>
     <th>Stimulus</th>
     <th>Sense</th>
@@ -19,57 +19,78 @@ The table below gives some examples of different human senses and how they work.
     <th>Neural system</th>
   </tr>
   <tr>
-    <td>presence of light, wavelength (colour) and intensity (brightness)</td>
-    <td>temperature change</td>
-    <td>gravity and acceleration</td>
-    <td>chemical contact</td>
-    <td>tissue or nerve damage</td>
-    <td>change in pace or regularity of heartbeat</td>
-    <td>self-movement, exertion of force, body position</td>
+    <td>Presence of light, wavelength (colour) and intensity (brightness)</td>
+    <td>Vision</td>
+    <td>Eyes</td>
+    <td>Optic nerve and optic tract</td>
+    <td>Visual cortex</td>
   </tr>
   <tr>
-    <td>vision</td>
-    <td>thermoception</td>
-    <td>balance (equilibrioception)</td>
-    <td>taste (gustation)</td>
-    <td>pain (nociception)</td>
-    <td>cardioception</td>
-    <td>proprioception</td>
-  </tr>
-    <tr>
-    <td>Eyes</td>
+    <td>Temperature change</td>
+    <td>Thermoception</td>
     <td>Skin and eyes</td>
-    <td>Inner ear</td>
-    <td>Tate buds</td>
-    <td>skin, internal surfaces, some inner organs</td>
-    <td>heart</td>
-    <td>muscles, tendons, and joints</td>
-    <tr>
-    <td>optic nerve and optic tract</td>
     <td>Spinal nerves</td>
+    <td>Somatosensory cortex</td>
+  </tr>
+  <tr>
+    <td>Gravity and acceleration</td>
+    <td>Balance (equilibrioception)</td>
+    <td>Inner ear</td>
     <td>Vestibulocochlear nerves</td>
-    <td>Facial and Glossopharyngeal nerves</td>
-    <td>Nociception axions and spinal chord</td>
-    <td>Vagus nerve</td>
-    <td>Central nervous system</td>
-    <tr>
-    <td>Visual cortex</td>
-    <td>Somatosensory cortex</td>
     <td>Vestibular cortex</td>
+  </tr>
+  <tr>
+    <td>Chemical contact</td>
+    <td>Taste (gustation)</td>
+    <td>Taste buds</td>
+    <td>Facial and Glossopharyngeal nerves</td>
     <td>Gustatory cortex</td>
-    <td>Schwann cells</td>
+  </tr>
+  <tr>
+    <td>Tissue or nerve damage</td>
+    <td>Pain (nociception)</td>
+    <td>Skin, internal surfaces, some inner organs</td>
+    <td>Nociception axions and spinal chord</td>
     <td>Somatosensory cortex</td>
+  </tr>
+  <tr>
+    <td>Change in pace or regularity of heartbeat</td>
+    <td>Cardioception</td>
+    <td>Heart</td>
+    <td>Vagus nerve</td>
+    <td>Somatosensory cortex</td>
+  </tr>
+  <tr>
+    <td>Self-movement, exertion of force, body position</td>
+    <td>Proprioception</td>
+    <td>Muscles, tendons, and joints</td>
+    <td>Central nervous system</td>
     <td>Somatosensory cerebral cortex</td>
   </tr>
 </table>
 
-<p>Click to learn about different senses</p>
 
- <img src="https://images.pexels.com/photos/1984457/pexels-photo-1984457.jpeg?auto=compress&cs=tinysrgb&w=1200" alt="human" usemap="#human">
+<p>Click on the image below to learn about these different senses in action</p>
+
+<style>
+    .area-info {
+        display: none;
+    }
+
+    :target {
+        display: block;
+    }
+</style>
+
+<img id="human" src="https://images.pexels.com/photos/1984457/pexels-photo-1984457.jpeg?auto=compress&cs=tinysrgb&w=1200" alt="human" usemap="#human">
 
 <map name="human">
-  <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
-  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
-  <area shape="circle" coords="337,300,44" alt="Coffee" href="coffee.htm">
+  <area shape="circle" coords="34,44,270,350" alt="Area 1" href="#area1">
+  <area shape="rect" coords="290,172,333,250" alt="Area 2" href="#area2">
+  <area shape="circle" coords="337,300,44" alt="Area 3" href="#area3">
 </map>
+
+<div id="area1" class="area-info">Movement: to move gracefully the dancer uses multimodal sensory input: this includes information about the position of the limbs (proprioception), a sense of balance which comes from the movement of liquid in the inner ear, and relationship to the external environment via. vision. </div>
+<div id="area2" class="area-info">Stamina: the dancer is able to regulate the level of their exertion and track their energy via. a seriies of interoceptive processes including heartrate (cardioception), an awareness of breathing (chemoreception), and s sense of the condition of her muscles and if they are close to exhaustion ,or at the limits of their capacity to safely stretch. (nociception)</div>
+<div id="area3" class="area-info">Rhythm: to move with rhythm to music, the dancer must align different multimodal sensory systems simultaenously: tthe auditory system which will allow her to hear the music, the vestibular and proprioceptive systems to co-ordinate herself in space, and the interoceptive signals which will help her to recognise if she is attuned to the music. For instance, her breathing will respond to the sounds she hears to prepare her body inttiutively for action.</div>
 
